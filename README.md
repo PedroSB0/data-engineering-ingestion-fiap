@@ -1,4 +1,3 @@
-🐘 Projeto: Integração entre SQL e Hadoop via Sqoop
 ### Módulo: BIG DATA ARCHITECTURE
 
 # 🐘 Projeto de Ingestão de Dados: MySQL para Hadoop (HDFS)
