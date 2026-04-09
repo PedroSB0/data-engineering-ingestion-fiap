@@ -48,4 +48,4 @@ Abaixo, as capturas de tela que comprovam o sucesso da operação:
 Para outras imagens do processo completo acesse `img`*
 
 ## 👨‍💻 Aluno
-**Pedro Henrique Sotero Bastos** *Estudante de Data Science na FIAP | Focado em Cloud Computing e Engenharia de Dados.*
+**Pedro Henrique Sotero Bastos** *Estudante de Data Science na FIAP | Focado em Cloud Computing e Engenharia de Dados. Agradecimentos a Professora Tassiana Rugoni*
